@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "776150483888",
+    "project_id": "chatapp-bca8e",
+    "storage_bucket": "chatapp-bca8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776150483888:android:0cb226ed39f60d2f7d0c75",
+        "android_client_info": {
+          "package_name": "com.example.letschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776150483888-jl5q974e3v9si0ca4m1kt07vumsj3ths.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.letschat",
+            "certificate_hash": "9f02c38a1f37fbac9269ffceee28245881e98bbe"
+          }
+        },
+        {
+          "client_id": "776150483888-rbk2ooag4lrgcm3rta3v1t674t0ffoid.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTtZCHvaWBYUCluwXNNutczzI7OWhkrmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776150483888-rbk2ooag4lrgcm3rta3v1t674t0ffoid.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
